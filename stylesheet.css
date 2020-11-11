@@ -1,0 +1,25 @@
+.theForm{
+    height: auto;
+    width: 800px;
+}
+.ratingButtons{
+    display: inline-block;
+    width: 400px;
+}
+.radioButton{
+    margin-right: 24.5px;
+}
+.radioButton2{
+    margin-left: 7px;
+    margin-right: 35px;
+}
+.radioLabel{
+    margin-right: 16.7px;
+    font-size: 20px;
+}
+.checkbox{
+    margin-right: 10px;
+}
+.attr{
+    display: inline-block;
+}
